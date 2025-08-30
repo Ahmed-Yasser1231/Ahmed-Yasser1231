@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Yasser  
 
-<!--
-**Ahmed-Yasser1231/Ahmed-Yasser1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Software Developer | 🌐 Full-Stack Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me  
+- 📧 Email: **ay622004@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-yasser-34a65b251/)  
+
+---
+
+## 🚀 About Me  
+- 🌱 I’m currently learning **React.js** to strengthen my front-end development skills.  
+- 💻 I have hands-on experience with both **frontend** and **backend** technologies.  
+- ⚡ I enjoy building full-stack applications and continuously exploring new tools and frameworks.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript  
+- React.js (currently learning)  
+
+### ⚙️ Backend
+- Java (Spring Boot)  
+- PHP  
+
+### 🗄️ Databases
+- PostgreSQL  
+- MySQL  
+
+### 🔧 Other Skills
+- C++  
+
+---
+
+## 📊 GitHub Stats  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedYasser&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYasser&layout=compact&theme=tokyonight)  
+
+---
+
+✨ *Always learning, always building.* 🚀  
