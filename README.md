@@ -40,9 +40,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Yasser1231&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Yasser1231&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Yasser1231&show_icons=true&theme=github_dark" alt="Ahmed's GitHub Stats" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Yasser1231&layout=compact&theme=github_dark" alt="Ahmed's Top Languages" height="170" />
+</div>
+<br/>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ahmed-Yasser1231&style=for-the-badge)  
 
@@ -55,5 +60,5 @@
 </picture>
 
 ---
-
-✨ *Always learning, always building.* 🚀  
+ 
+<p align="center"><sub>✨ *Always learning, always building.* 🚀</sub></p>
