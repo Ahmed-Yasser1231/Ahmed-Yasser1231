@@ -5,8 +5,12 @@
 ---
 
 ## 📬 Contact Me  
-- 📧 Email: **ay622004@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-yasser-34a65b251/)  
+<div align="left">
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmed-yasser-34a65b251/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ay622004@gmail.com)
+
+</div>
 
 ---
 
