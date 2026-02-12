@@ -50,11 +50,11 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Yasser1231&show_icons=true&theme=github_dark" alt="Ahmed's GitHub Stats" height="170" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Yasser1231&layout=compact&theme=github_dark" alt="Ahmed's Top Languages" height="170" />
-</div>
+</div> -->
 <br/>
 
 
